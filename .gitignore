@@ -1,0 +1,6 @@
+# ASDF
+.tool-versions
+
+# Binaries and packages
+*.zip
+main
